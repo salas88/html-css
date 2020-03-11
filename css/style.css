@@ -50,12 +50,13 @@
 }
 
 .bottom-container {
+  height: 100px;
   background-color: #66BFBF;
-  height: 200px;
+  padding-top: 50px;
 }
 
 .btn {
-  background-color: #66BFBF;
+  background-color: #66BFBF; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -67,12 +68,25 @@
 
 .contact-me {
   height: 300px;
+  margin-bottom: 50px;
+}
 
+.contact-message {
+  width: 35%;
+  margin: 40px auto 60px;
 }
 
 .profile-discription {
   width: 30%;
   margin: auto;
+}
+
+.footer-link {
+  margin: 50px 20px;
+}
+
+.copyright {
+  color: white;
 }
 
 body{
@@ -110,4 +124,12 @@ hr {
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
 }

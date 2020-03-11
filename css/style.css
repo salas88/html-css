@@ -1,0 +1,113 @@
+.top-container {
+  background-color: #e3fdfd;
+
+  width: 100%;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.bottom-container {
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+
+.skill-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-img2{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.avatar {
+
+  width: 15%;
+  border-radius: 100%;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 200px;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.contact-me {
+  height: 300px;
+
+}
+
+.profile-discription {
+  width: 30%;
+  margin: auto;
+}
+
+body{
+  margin: 0;
+  border: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h1{
+
+  font-size: 5.6rem;
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+
+}
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Amiri', serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color:  #11999E;
+}
+p {
+  font-family: 'Amiri', serif;
+  line-height: 2;
+}
+
+hr {
+  border: dotted 5px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
